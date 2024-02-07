@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HW4.2</title>
+    <style>
+        .div {width: 350px; padding: 10px; margin: 20px }
+
+        .div1 { background-color: #569099; font-size: 30px; font-weight: bold; color: white }
+        .div2 { font-size: 20px; background-color: #CAD8D0; }
+    </style>
+</head>
+<body>
+<div class="div div1">Вот такой чай</div>
+<div class="div div2">История о том, как один человек хотел попить чайку, но по ошибке вместо воды попытался налить в чайник бензин, и что из этого получилось.</div>
+</body>
+</html>
